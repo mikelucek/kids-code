@@ -21,7 +21,8 @@ h1 {
   font-family: "Helvetica", "Arial", sans-serif;
   color: #000000;
   margin-top: 100px;
-  diplay: inline;
+  padding-top: 100px;
+  /*diplay: inline;*/
   /*float: left;*/
 }
 
