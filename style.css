@@ -23,3 +23,24 @@ h1 {
   diplay: inline;
   float: left;
 }
+
+#nav{
+	list-style: none;
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid black;
+
+}
+
+#nav li{
+	  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+#nav a{
+	text-decoration: none;
+	color: #000;
+}
+
+#nav a:hover{ color: red;}
+
