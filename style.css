@@ -1,5 +1,6 @@
 #wrapper {
   width: 900px;
+  margin: 0 auto;
 }
 
 header {
@@ -43,4 +44,3 @@ h1 {
 }
 
 #nav a:hover{ color: red;}
-
