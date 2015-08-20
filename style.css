@@ -28,12 +28,12 @@ h1 {
 
 .clearfix{clear: both;}
 
-#navbar{float:left;}
+#navbar{float:right;}
 #nav{
 	width:150px;
 	list-style: none;
-	float: left;
-	padding: 10px;
+/*	float: left;
+*/	padding: 10px;
 	/*margin: 10px 60px;*/
 
 }
