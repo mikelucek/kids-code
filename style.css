@@ -54,9 +54,11 @@ h1 {
 #nav a:hover{ color: red;}
 
 #body{
+  font-family: sans-serif;
+  font-size: 24px;
   margin: 20px;
-  padding: 10px;
-	width: 400px;
+  padding: 0px 10px;
+	width: 560px;
 	float: left;
 	border: 1px dotted grey;
 }
