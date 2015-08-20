@@ -1,0 +1,9 @@
+#wrapper {
+  width: 900px;
+}
+
+.header {
+  width: 900px;
+  height: 400px;
+  border: 1px black solid;
+}
