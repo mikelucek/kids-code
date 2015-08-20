@@ -28,18 +28,21 @@ h1 {
 
 .clearfix{clear: both;}
 
-#navbar{float:left;}
+/*#navbar{float:left;}*/
 #nav{
+	width:136px;
 	list-style: none;
 	float: left;
 	padding: 10px;
-	margin: 10px;
-	border: 1px solid black;
+	margin: 10px 60px;
+	border: 1px dotted grey;
 
 }
 
 #nav li{
 	  font-family: "Helvetica", "Arial", sans-serif;
+	  font-size: 36px;
+	  padding: 12px;
 }
 
 #nav a{
@@ -50,5 +53,7 @@ h1 {
 #nav a:hover{ color: red;}
 
 #body{
+	width: 500px;
 	float: left;
+	border: 1px dotted grey;
 }
