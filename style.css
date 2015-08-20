@@ -3,7 +3,7 @@
   margin: 0 auto;
 }
 
-header {
+#header {
   width: 900px;
   height: 239px;
   border: 1px black solid;
@@ -22,9 +22,12 @@ h1 {
   color: #000000;
   margin-top: 100px;
   diplay: inline;
-  float: left;
+  /*float: left;*/
 }
 
+.clearfix{clear: both;}
+
+#navbar{float:left;}
 #nav{
 	list-style: none;
 	float: left;
@@ -44,3 +47,7 @@ h1 {
 }
 
 #nav a:hover{ color: red;}
+
+#body{
+	float: left;
+}
