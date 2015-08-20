@@ -2,13 +2,24 @@
   width: 900px;
 }
 
-.header {
+header {
   width: 900px;
-  height: 400px;
+  height: 239px;
   border: 1px black solid;
 }
 
+#head-img {
+  height: 360px;
+  margin-right: 100px;
+  display: inline;
+  float: left;
+}
+
 h1 {
+  font-size: 200%;
   font-family: "Helvetica", "Arial", sans-serif;
   color: #000000;
+  margin-top: 100px;
+  diplay: inline;
+  float: left;
 }
