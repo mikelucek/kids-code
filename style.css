@@ -30,24 +30,25 @@ h1 {
 
 #navbar{float:left;}
 #nav{
-	width:136px;
+	width:150px;
 	list-style: none;
 	float: left;
 	padding: 10px;
-	margin: 10px 60px;
-	border: 1px dotted grey;
+	/*margin: 10px 60px;*/
 
 }
 
 #nav li{
-	  font-family: "Helvetica", "Arial", sans-serif;
+	  font-family: 'Slabo 27px', serif;
+    background-color: #000000;
+    color: #FFFFFF;
 	  font-size: 36px;
 	  padding: 12px;
 }
 
 #nav a{
 	text-decoration: none;
-	color: #000;
+	color: #FFFFFF;
 }
 
 #nav a:hover{ color: red;}
