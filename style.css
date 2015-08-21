@@ -62,7 +62,7 @@ h1 {
   font-size: 24px;
   margin: 20px;
 
-  padding: 0px 10px;
+  padding: 8px 10px;
 	width: 560px;
 
 	float: left;
@@ -87,9 +87,9 @@ h1 {
   display: inline;
 }
 
-h2 {
+h2, h3{
   font-family: 'Slabo 27px', serif;
- 
+
 }
 
 #linktext {
