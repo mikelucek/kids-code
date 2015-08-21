@@ -58,7 +58,7 @@ h1 {
 #nav a:hover{ color: red;}
 
 #body{
-  font-family: sans-serif;
+  font-family: 'Droid Sans', sans-serif;
   font-size: 24px;
   margin: 20px;
 
@@ -88,8 +88,7 @@ h1 {
 
 h2 {
   font-family: 'Slabo 27px', serif;
-  position: absolute;
-  left: 360px;
+ 
 }
 
 #linktext {
