@@ -67,3 +67,27 @@ h1 {
    padding: 0px;
    /*margin: 0px;*/
  }
+
+.blockimage {
+  float: right;
+  margin: 10px;
+}
+
+#linkpages {
+  font-family: 'Slabo 27px', serif;
+  background-color: #000000;
+  color: #FFFFFF;
+  margin: 0px;
+}
+
+h2 {
+  font-family: 'Slabo 27px', serif;
+  position: absolute;
+  left: 360px;
+}
+
+#linktext {
+  font-family: 'Slabo 27px', serif;
+  padding-left: 200px;
+  margin-top: 50px;
+}
