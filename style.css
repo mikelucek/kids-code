@@ -84,6 +84,7 @@ h1 {
   background-color: #000000;
   color: #FFFFFF;
   margin: 0px;
+  display: inline;
 }
 
 h2 {
@@ -95,4 +96,13 @@ h2 {
   font-family: 'Slabo 27px', serif;
   padding-left: 200px;
   margin-top: 50px;
+}
+
+#minidog{
+  height: 70px;
+  float: right;
+}
+
+#minimenu{
+  background-color: black;
 }
